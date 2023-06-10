@@ -10,8 +10,9 @@ def binary_search(list, item):
 
     while low <= high:
         # guess the middle element
-        mid = (low + high)
+        mid = (low + high)//2
         guess = list[mid]
+        print(f'Index guess: {mid}')
         # found
         if guess == item:
             return mid
@@ -23,4 +24,4 @@ def binary_search(list, item):
             low = mid + 1
 
 print(binary_search([1,3,4,5,7,8,11,234], 234))
-print(binary_search([1,3,4,5,7,8,11,234], 10))
+print(binary_search([1,3,4,5,7,8,11,234], 3))
