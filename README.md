@@ -1,2 +1,2 @@
-# algorithms
-This repository contains my implementation of algorithms that are basic to understand in any algorithms course, algorithms that you should understand if you want to get a job and algorithms that are interesting to solve.
+# Algorithms
+This repository contains my implementation of (roughly speaking) 2 categories of algorithms: Those basic algorithms, necessary to learn in any decent algorithms course, and those algorithms interesting and FUN to solve.
