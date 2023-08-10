@@ -4,7 +4,7 @@ Algorithms implementation just for fun.
 ## Sorting Algorthms
 | Algorithm  | Description | Languages  |
 | ---------- | ----------- | ---------- |
-| Selection sort | Sorting algorithm with $O(n^2)$ time complexity. It requires previously sorted elements. | Python |
+| Selection sort | Sorting algorithm with $O(n^2)$ time complexity. It requires previously sorted elements. | Python, Julia, JS |
 
 ## Search Algorithms
 | Algorithm  | Description | Languages  |
