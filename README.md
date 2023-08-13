@@ -4,12 +4,13 @@ Algorithms implementation just for fun.
 ## Sorting Algorthms
 | Algorithm  | Description | Languages  |
 | ---------- | ----------- | ---------- |
-| Selection sort | Sorting algorithm with $O(n^2)$ time complexity. It requires previously sorted elements. | Python, Julia, JS |
+| Selection sort | Sorting algorithm with $O(n^2)$ time complexity. | Python, Julia, JS |
+| Merge sort | Sorting algorithm with $O(n \log n)$ time complexity. | Python, Julia, JS |
 
 ## Search Algorithms
 | Algorithm  | Description | Languages  |
 | ---------- | ----------- | ---------- |
-| Binary Search | Efficient search algorithm with $O(log(n))$ time complexity. | Python, Julia, JS |
+| Binary Search | Efficient search algorithm with $O(log(n))$ time complexity. It requires previously sorted elements.| Python, Julia, JS |
 ## Computational Physics and Math algorithms
 | Algorithm  | Description | Languages  |
 | ---------- | ----------- | ---------- |
